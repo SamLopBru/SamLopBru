@@ -10,5 +10,6 @@
 ## Certifications 🎓
 
 ## Contact me!
-*[Linkedin](linkedin.com/in/samuel-lópez-brufal-4345682b0)
-*Email: samlopbru@gmail.com
+- [Linkedin](linkedin.com/in/samuel-lópez-brufal-4345682b0)
+
+- Email: samlopbru@gmail.com
