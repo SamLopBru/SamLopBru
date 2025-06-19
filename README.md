@@ -9,6 +9,10 @@
 
 ## Certifications 🎓
 [Google Cloud Platform](Certificates/EITC_certificated_GoogleCloudPlatform.pdf)
+
+[Google Cloud ML](Certificates/EITC_certificated_GoogleCloudML.pdf)
+
+[Python Fundamentals](Certificates/EITC_certificate_Python.pdf)
 ## Contact me!
 - Linkedin: www.linkedin.com/in/samuel-lópez-brufal-4345682b0
 
