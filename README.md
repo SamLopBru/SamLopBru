@@ -8,7 +8,7 @@
 ## Cibersecurity 🔒
 
 ## Certifications 🎓
-
+[Google Cloud Platform](Certificates/EITC_certificated_GoogleCloudPlatform.pdf)
 ## Contact me!
 - Linkedin: www.linkedin.com/in/samuel-lópez-brufal-4345682b0
 
