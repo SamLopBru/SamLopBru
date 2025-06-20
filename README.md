@@ -6,6 +6,7 @@
 [Classification of Colon Cancer Images]()
 
 ## Cibersecurity 🔒
+[A Secure Command-Line Application for Patient Management with Go](https://github.com/SamLopBru/CiberSecurityGo.git)
 
 ## Certifications 🎓
 [Google Cloud Platform](Certificates/EITC_certificated_GoogleCloudPlatform.pdf)
