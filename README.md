@@ -4,11 +4,14 @@ I'm a Biomedical Engineer passionate about Artificial Intelligence, Computer Vis
 
 ---
 
-## 🚀 AI Projects
+## 🚀 ML Projects
+
+- [🧪 ML Model Comparison for Tabular Data](https://github.com/SamLopBru/FirstMLProject.git)  
+  First machine learning project exploring different approaches for data cleaning and comparing model performance across various algorithms.
+  
 - [🎓 Final Degree Project: Breast Cancer Detection using Deep Learning](https://github.com/SamLopBru/FinalDegreeProject.git)  
   Developed a CNN with slice-level attention for early breast cancer detection from tomosynthesis images.
 
-- [🧬 Colon Cancer Image Classification]() 
 
 ---
 
