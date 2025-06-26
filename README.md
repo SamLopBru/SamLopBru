@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel López Brufal
 
-I'm a Biomedical Engineer passionate about Artificial Intelligence, Computer Vision, and Cybersecurity. I enjoy building impactful projects that merge healthcare and technology.
+I'm a Biomedical Engineer with a strong interest in Artificial Intelligence and Computer Vision, especially in their application to medical and clinical environments. I enjoy developing impactful projects that connect healthcare with cutting-edge technology.
 
 ---
 
