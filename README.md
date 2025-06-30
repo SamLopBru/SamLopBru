@@ -24,7 +24,8 @@ I'm a Biomedical Engineer with a strong interest in Artificial Intelligence and 
 ## 📜 Certifications
 - [Google Cloud Platform](Certificates/EITC_certificated_GoogleCloudPlatform.pdf)  
 - [Google Cloud Machine Learning](Certificates/EITC_certificated_GoogleCloudML.pdf)  
-- [Python Fundamentals](Certificates/EITC_certificate_Python.pdf)  
+- [Python Fundamentals](Certificates/EITC_certificate_Python.pdf)
+- [TensorFlow Fundamentals](Certificates/EITC_certificated_TFfundamentals.pdf)
 
 ---
 
