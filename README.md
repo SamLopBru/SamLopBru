@@ -4,6 +4,13 @@ I'm a Biomedical Engineer with a strong interest in Artificial Intelligence and 
 
 ---
 
+## 💼 Experience
+
+- Intern researcher in the Computer Science Dept. in University of Alicante.
+  - Designed and implemented convolutional neural networks (CNNs) for early breast cancer detection using tomosynthesis imaging, integrating a slice-level attention mechanism to enhance diagnostic accuracy.
+  - Employed deep learning frameworks including PyTorch and Keras for model development, and utilized libraries such as OpenCV (cv2), PyDicom, Pandas, NumPy, and Matplotlib.
+  - Performed preprocessing of medical images, trained deep learning models, and evaluated performance using metrics such as accuracy, F1-score, and Intersection over Union (IoU).
+---
 ## 🚀 ML Projects
 
 - [🧪 ML Model Comparison for Tabular Data](https://github.com/SamLopBru/FirstMLProject.git)  
@@ -18,7 +25,7 @@ I'm a Biomedical Engineer with a strong interest in Artificial Intelligence and 
 
 ---
 
-## 🔐 Cybersecurity
+## 🔐 Cybersecurity Projects
 - [🔒 Patient Management CLI App in Go](https://github.com/SamLopBru/CiberSecurityGo.git)  
   Secure command-line application for managing patient data, applying cybersecurity principles in Go.
 
