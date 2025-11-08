@@ -1,36 +1,48 @@
-# 👋 Hi, I'm Samuel López Brufal
+# 👋 Hi, I'm Samuel López Brufal  
 
-I'm a Biomedical Engineer with a strong interest in Artificial Intelligence and Computer Vision, especially in their application to medical and clinical environments. I enjoy developing impactful projects that connect healthcare with cutting-edge technology.
+I'm a **Biomedical Engineer** and **Master’s student in Artificial Intelligence** at the **University of Alicante**, passionate about applying **Deep Learning** and **Natural Language Processing (NLP)** to solve complex challenges in healthcare.  
+My work bridges **academic research, applied AI development, and clinical collaboration**, focusing on creating intelligent systems that deliver real-world impact.  
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience  
 
-- Intern researcher in the Computer Science Dept. in University of Alicante.
-  - Designed and implemented convolutional neural networks (CNNs) for early breast cancer detection using tomosynthesis imaging, integrating a slice-level attention mechanism to enhance diagnostic accuracy.
-  - Employed deep learning frameworks including PyTorch and Keras for model development, and utilized libraries such as OpenCV (cv2), PyDicom, Pandas, NumPy, and Matplotlib.
-  - Performed preprocessing of medical images, trained deep learning models, and evaluated performance using metrics such as accuracy, F1-score, and Intersection over Union (IoU).
+### 🏥 Hospital de San Juan de Alicante — Health Department  
+**AI Research Intern (2025–Present)**  
+- Developing **LLM-based systems** for automatic extraction of clinical data from **spirometry reports**.  
+- Implementing a **real-time feedback module** to evaluate the quality of spirometry maneuvers during testing.  
+- Collaborating in a **multidisciplinary team** of engineers, clinicians, and data scientists to integrate AI solutions into clinical workflows.  
+
+### 🧠 University of Alicante — Computer Science Department  
+**Research Intern (2024–2025)**  
+- Designed and implemented **Convolutional Neural Networks (CNNs)** for **early breast cancer detection** from 3D mammograms, incorporating a **slice-based attention mechanism**.  
+- Built a complete deep learning pipeline using **PyTorch**, **Keras**, **OpenCV**, **PyDicom**, **NumPy**, and **Matplotlib**.  
+- Evaluated model performance through metrics such as *Accuracy*, *F1-score*, and *Intersection over Union (IoU)*.  
+
+### 💻 Outlier — Freelance AI Developer (2025)  
+- Trained and fine-tuned **LLMs and NLP models** for projects in **text generation**, **code classification**, and **recommendation systems**.  
+- Delivered custom AI solutions for diverse STEM-related domains, focusing on efficiency and scalability.  
+
 ---
-## 🚀 ML Projects
 
-- [🧪 ML Model Comparison for Tabular Data](https://github.com/SamLopBru/FirstMLProject.git)  
-  First machine learning project exploring different approaches for data cleaning and comparing model performance across various algorithms.
+## 🚀 Selected Projects  
 
-- [🔬 Tissue Classification in Histological Colorectal Images](https://github.com/SamLopBru/ColorrectalDL.git) <br>
-  Built a deep learning pipeline to classify 8 tissue types in colorectal histology images using VGG19, ResNet50, and InceptionV3. Achieved 94.2% accuracy with fine-tuned VGG19 and implemented sliding window     inference for full-image segmentation.
+- [🧠 **Breast Cancer Detection using Deep Learning**](https://github.com/SamLopBru/FinalDegreeProject.git)  
+  Developed a CNN with a slice-level attention mechanism to improve diagnostic accuracy in 3D tomosynthesis mammography.
   
-- [🎓 Final Degree Project: Breast Cancer Detection using Deep Learning](https://github.com/SamLopBru/FinalDegreeProject.git)  
-  Developed a CNN with slice-level attention for early breast cancer detection in tomosynthesis images, reducing the computational cost of training.
+- [🧩 **Tractography Segmentation using Graphs and Autoencoders**](https://github.com/SamLopBru/MasterThesis.git)  
+  Ongoing research project focused on the **segmentation and analysis of brain tractography data** using **graph-based neural networks** and **autoencoders** to identify and cluster white matter pathways.  
 
+- [🔬 **Tissue Classification in Histological Colorectal Images**](https://github.com/SamLopBru/ColorrectalDL.git)  
+  Built a deep learning pipeline using VGG19, ResNet50, and InceptionV3 to classify 8 tissue types, achieving **94.2% accuracy**.  
+
+- [🧪 **ML Model Comparison for Tabular Data**](https://github.com/SamLopBru/FirstMLProject.git)  
+  Compared and optimized multiple ML algorithms for tabular datasets, focusing on preprocessing, model evaluation, and interpretability.  
+
+- [🔒 **Patient Management CLI App in Go**](https://github.com/SamLopBru/CiberSecurityGo.git)  
+  Developed a secure command-line tool for patient data management, applying core cybersecurity principles.  
 
 ---
-
-## 🔐 Cybersecurity Projects
-- [🔒 Patient Management CLI App in Go](https://github.com/SamLopBru/CiberSecurityGo.git)  
-  Secure command-line application for managing patient data, applying cybersecurity principles in Go.
-
----
-
 ## 📜 Certifications
 - [Google Cloud Platform](Certificates/EITC_certificated_GoogleCloudPlatform.pdf)  
 - [Google Cloud Machine Learning](Certificates/EITC_certificated_GoogleCloudML.pdf)  
@@ -38,7 +50,18 @@ I'm a Biomedical Engineer with a strong interest in Artificial Intelligence and 
 - [TensorFlow Fundamentals](Certificates/EITC_certificated_TFfundamentals.pdf)
 
 ---
+## 🧩 Skills  
 
-## 📬 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-lópez-brufal-4345682b0)  
-- 📧 samlopbru@gmail.com
+**Languages:** Python, JavaScript, Java  
+**Frameworks:** PyTorch, Keras, OpenCV, MONAI, NiBabel, PyDicom  
+**AI Expertise:** CNNs, Transformers, Autoencoders, LLMs  
+**Domains:** Computer Vision, NLP, Medical Image Analysis, Digital Health  
+**Soft Skills:** Problem-solving, teamwork, adaptability, communication  
+
+---
+
+## 📬 Contact  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/samlopbru)  
+- 🧠 [GitHub](https://github.com/SamLopBru)  
+- 📧 samlopbru@gmail.com  
