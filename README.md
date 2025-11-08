@@ -30,7 +30,7 @@ My work bridges **academic research, applied AI development, and clinical collab
 - [🧠 **Breast Cancer Detection using Deep Learning**](https://github.com/SamLopBru/FinalDegreeProject.git)  
   Developed a CNN with a slice-level attention mechanism to improve diagnostic accuracy in 3D tomosynthesis mammography.
   
-- [🧩 **Tractography Segmentation using Graphs and Autoencoders**](https://github.com/SamLopBru/MasterThesis.git)  
+- [🧩 **Tractography Segmentation using Graphs and Autoencoders**]()  
   Ongoing research project focused on the **segmentation and analysis of brain tractography data** using **graph-based neural networks** and **autoencoders** to identify and cluster white matter pathways.  
 
 - [🔬 **Tissue Classification in Histological Colorectal Images**](https://github.com/SamLopBru/ColorrectalDL.git)  
