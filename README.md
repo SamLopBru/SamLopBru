@@ -16,7 +16,7 @@ My work bridges **academic research, applied AI development, and clinical collab
 ### 🧠 University of Alicante — Computer Science Department  
 **Research Intern (2024–2025)**  
 - Designed and implemented **Convolutional Neural Networks (CNNs)** for **early breast cancer detection** from 3D mammograms, incorporating a **slice-based attention mechanism**.  
-- Built a complete deep learning pipeline using **PyTorch**, **Keras**, **OpenCV**, **PyDicom**, **NumPy**, and **Matplotlib**.  
+- Built a complete deep learning pipeline using **PyTorch**, **Keras**, **OpenCV**, **PyDicom**, **NumPy**, **Matplotlib** and **MONAI**.  
 - Evaluated model performance through metrics such as *Accuracy*, *F1-score*, and *Intersection over Union (IoU)*.  
 
 ### 💻 Outlier — Freelance AI Developer (2025)  
