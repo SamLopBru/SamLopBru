@@ -31,7 +31,7 @@ My work bridges **academic research, applied AI development, and clinical collab
   Developed a CNN with a slice-level attention mechanism to improve diagnostic accuracy in 3D tomosynthesis mammography.
   
 - [🧩 **Tractography Segmentation using Graphs and Autoencoders**]()  
-  Ongoing research project focused on the **segmentation and analysis of brain tractography data** using **graph-based neural networks** and **autoencoders** to identify and cluster white matter pathways.  
+  Ongoing research project focused on the **segmentation and analysis of brain tractography data** using **graph-based neural networks**, **autoencoders** and **transformers** to identify and cluster white matter pathways.  
 
 - [🔬 **Tissue Classification in Histological Colorectal Images**](https://github.com/SamLopBru/ColorrectalDL.git)  
   Built a deep learning pipeline using VGG19, ResNet50, and InceptionV3 to classify 8 tissue types, achieving **94.2% accuracy**.  
