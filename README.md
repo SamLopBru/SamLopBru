@@ -53,6 +53,7 @@ My experience spans **AI engineering, deep learning, data processing, and workfl
 - [Google Cloud Machine Learning](Certificates/EITC_certificated_GoogleCloudML.pdf)  
 - [Python Fundamentals](Certificates/EITC_certificate_Python.pdf)
 - [TensorFlow Fundamentals](Certificates/EITC_certificated_TFfundamentals.pdf)
+- and more in [Certificates](Certificates/)
 
 ---
 🛠️ Technical Skills
